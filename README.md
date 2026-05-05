@@ -2,7 +2,7 @@
 
 💻 Beginner backend / game server developer  
 🎮 6+ years working with **Minecraft Bedrock & Java** ecosystem  
-⚙️ Focused on server development, plugins/modifications, and gameplay systems  
+⚙️ Focused on server development, plugins & modifications, and gameplay systems  
 
 ---
 
@@ -13,11 +13,12 @@
 - PHP - PocketMine-MP plugins & server systems
 - Java - PaperMC plugins & Fabric modifications
 - Python - Discord bots (automation, APIs)
-- JavaScript - Telegram bots (basic, event handling)
+- JavaScript - Discord & Telegram bots (basic, event handling)
 
 ### Databases:
 
 - MySQL
+- MariaDB
 - SQLite
 
 ### Tools & Technologies:
@@ -38,7 +39,7 @@
 - 🌳 **Grapix (2023-2024)** - CakeWars & PvP Practice
   - Game logic, matchmaking systems, MySQL integration  
 - 🎋 **MGRW (2024-2026)** - CakeWars & KitPvP
-  - Full architecture, stats & progression systems, database design (MySQL)  
+  - Full architecture, stats & progression systems, database design (MariaDB)  
 
 ---
 
@@ -54,5 +55,5 @@
 
 ## 📫 Contact
 
-- Discord: noerul
+- Discord: **noerul**
 - Telegram: https://t.me/N0ERUL
