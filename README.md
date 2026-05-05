@@ -1,8 +1,9 @@
 # Hi, I'm Noerul 👋
 
-💻 Beginner backend / game server developer  
+💻 Minecraft Server & Backend Developer  
 🎮 6+ years working with **Minecraft Bedrock & Java** ecosystem  
 ⚙️ Focused on server development, plugins & modifications, and gameplay systems  
+🌍 Languages: Russian (Native), Ukrainian (Native), English (B1)  
 
 ---
 
@@ -10,10 +11,10 @@
 
 ### Languages:
 
-- PHP - PocketMine-MP plugins & server systems
-- Java - PaperMC plugins & Fabric modifications
-- Python - Discord bots (automation, APIs)
-- JavaScript - Discord & Telegram bots (basic, event handling)
+- PHP (PocketMine-MP plugins, event-driven systems)
+- Java (PaperMC plugins, Fabric mods)
+- Python (Discord bots, API integrations)
+- JavaScript (Telegram bots, bot automation)
 
 ### Databases:
 
@@ -53,7 +54,7 @@
 
 ---
 
-## 📫 Contact
+## 📫 Contacts
 
-- Discord: **noerul**
+- Discord: `noerul`
 - Telegram: https://t.me/N0ERUL
