@@ -57,4 +57,4 @@
 ## 📫 Contacts
 
 - Discord: `noerul`
-- Telegram: https://t.me/N0ERUL
+- Telegram: [@N0ERUL](https://t.me/N0ERUL)
