@@ -10,22 +10,22 @@
 
 ### Languages:
 
-- 🐘 PHP - PocketMine-MP plugins & server systems
-- ☕ Java - PaperMC plugins & Fabric modifications
-- 🐍 Python - Discord bots (automation, APIs)
-- 🔵 JavaScript - Telegram bots (basic, event handling)
+- PHP - PocketMine-MP plugins & server systems
+- Java - PaperMC plugins & Fabric modifications
+- Python - Discord bots (automation, APIs)
+- JavaScript - Telegram bots (basic, event handling)
 
 ### Databases:
 
-- 🐬 MySQL
-- 📦 SQLite
+- MySQL
+- SQLite
 
 ### Tools & Technologies:
 
-- 🔧 PocketMine-MP & Bedrock Protocol
-- 🌐 Git & GitHub
-- 🖥️ Linux (CLI, basic)
-- ⚡ REST APIs (basic usage)
+- PocketMine-MP & Bedrock Protocol
+- Git & GitHub
+- Linux (CLI, basic)
+- REST APIs (basic usage)
 
 ---
 
@@ -54,5 +54,5 @@
 
 ## 📫 Contact
 
-- 🧿 Discord: noerul
-- 💬 Telegram: https://t.me/N0ERUL
+- Discord: noerul
+- Telegram: https://t.me/N0ERUL
