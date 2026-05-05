@@ -3,7 +3,7 @@
 💻 Minecraft Server & Backend Developer  
 🎮 6+ years working with **Minecraft Bedrock & Java** ecosystem  
 ⚙️ Focused on server development, plugins & modifications, and gameplay systems  
-🌍 Languages: Russian (Native), Ukrainian (Native), English (B1)  
+🌍 Know languages: Russian (Native), Ukrainian (Native), English (B1)  
 
 ---
 
