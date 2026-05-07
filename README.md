@@ -45,6 +45,7 @@
 ---
 
 ## 📊 GitHub Stats
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Noeryl&show_icons=true&include_all_commits=true&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github-stats-extended.vercel.app/api?username=Noeryl&show_icons=true&include_all_commits=true&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Noeryl&langs_count=4&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github-stats-extended.vercel.app/api/top-langs?username=Noeryl&langs_count=4&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
@@ -56,5 +57,5 @@
 
 ## 📫 Contacts
 
-- Discord: `noerul`
+- Discord: [@noerul](https://discord.com/users/715487446384771142)
 - Telegram: [@N0ERUL](https://t.me/N0ERUL)
